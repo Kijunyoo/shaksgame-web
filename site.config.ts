@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'SHAKS - Mobile Gaming Controller',
 
   // social usernames (optional)
-  twitter: null,
-  github: null,
-  linkedin: null,
+  twitter: undefined,
+  github: undefined,
+  linkedin: undefined,
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
