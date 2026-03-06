@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'd1ed93a84ed6496a88acd33fcc0ba683',
+  rootNotionPageId: '336eb4a603b24a378587d170a193507f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'SHAKS Game',
-  domain: 'www.shaksgame.com',
+  name: 'SHAKS Gamepad',
+  domain: 'gamepad.shaksgame.com',
   author: 'SHAKS',
 
   // open graph metadata (optional)
